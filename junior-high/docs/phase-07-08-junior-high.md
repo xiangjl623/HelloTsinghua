@@ -97,4 +97,4 @@
 
 ## 下阶段预告
 
-2035 年 9 月高中入学 → [阶段九–十文档](phase-09-10-senior-high.md)
+2035 年 9 月高中入学 → [阶段九–十文档](../../senior-high/docs/phase-09-10-senior-high.md)

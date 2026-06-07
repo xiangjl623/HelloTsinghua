@@ -110,4 +110,4 @@
 
 ## 下阶段预告
 
-2032 年 9 月入学初中 → [阶段七–八文档](phase-07-08-junior-high.md)
+2032 年 9 月入学初中 → [阶段七–八文档](../../junior-high/docs/phase-07-08-junior-high.md)

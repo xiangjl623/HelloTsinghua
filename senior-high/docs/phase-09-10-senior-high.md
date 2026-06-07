@@ -63,7 +63,7 @@
 - 辩论队
 - 持续竞赛 + 论文（若走竞赛轨）
 
-记录于 [成长档案](../templates/growth-archive.md)。
+记录于 [成长档案](../../shared/templates/growth-archive.md)。
 
 ---
 

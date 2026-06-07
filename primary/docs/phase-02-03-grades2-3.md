@@ -12,7 +12,7 @@
 
 ## 能力培养
 
-- **时间管理**：可视化时间表，放学后 1.5h 学习区块 → 见 [周末时间表](../templates/weekly-schedule-dual-income.md)
+- **时间管理**：可视化时间表，放学后 1.5h 学习区块 → 见 [周末时间表](../../shared/templates/weekly-schedule-dual-income.md)
 - **错题意识**：数学「做一遍 → 讲一遍」（费曼学习法雏形）
 - **表达训练**：参加班级 / 校级朗诵、讲故事
 

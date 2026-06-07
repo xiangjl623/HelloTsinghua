@@ -87,7 +87,7 @@
 - [ ] 科技 / AI 体验项目证明
 - [ ] 五六年级成绩单、区统测排名
 
-存入 [成长档案](../templates/growth-archive.md) 证书区。
+存入 [成长档案](../../shared/templates/growth-archive.md) 证书区。
 
 ---
 
